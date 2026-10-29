@@ -1,0 +1,10 @@
+{
+  "description": "Identify potential semantic plagiarism in academic documents through text processing and similarity calculations, aiding human review for educators and researchers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
